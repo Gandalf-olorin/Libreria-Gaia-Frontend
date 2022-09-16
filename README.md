@@ -1,4 +1,4 @@
-# **libreriaGaia-Frontend:** Cliente angular-oauth2-oidc
+# **libreria-Gaia-Frontend:** Cliente angular-oauth2-oidc
 
 Esta biblioteca le ayuda a implementar el cliente angular-oauth2-oidc en aplicaciones desarrolladas en Angular.
 
@@ -116,7 +116,7 @@ const routes: Routes = [
 <br>
 <br>
 
-# **libreriaGaia-Frontend:** Cliente Keycloak-angular y keycloak-js
+# **libreria-Gaia-Frontend:** Cliente Keycloak-angular y keycloak-js
 
 Esta biblioteca le ayuda a implementar el cliente Keycloak-angular y keycloak-js en aplicaciones desarrolladas en Angular.
 
